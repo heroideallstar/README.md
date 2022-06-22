@@ -1,9 +1,10 @@
 ### Oi gente 👋
-- 🌠 Sou professor de física
-- 🕹️ De ensamento computacional
-- 👨‍🏫 De estudo orientado
-- 🎭 E também leciono uma eletiva de teatro. 
-- 🌱 Sou vegetariano 
+- 🌠 Sou professor de física;
+- 🕹️ De ensamento computacional;
+- 👨‍🏫 De estudo orientado;
+- 🎭 E também leciono uma eletiva de teatro; 
+- 🌱 Sou vegetariano;
+- 🐈 Tenho 5 gatos;
 - 👨‍🎓 Sou mestre em física: minha dissertação é sobre multiestabilidade dentro de um sistema predador presa com dois predadores.
 
 ### Ferramentas e Tecnologias
