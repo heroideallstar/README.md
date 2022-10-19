@@ -1,6 +1,6 @@
 ### Oi gente 👋
 - 🌠 Sou professor de física;
-- 🕹️ De ensamento computacional;
+- 🕹️ De pensamento computacional;
 - 👨‍🏫 De estudo orientado;
 - 🎭 E também leciono uma eletiva de teatro; 
 - 🌱 Sou vegetariano;
