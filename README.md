@@ -1,6 +1,8 @@
 # Daniel Felipe Meurer
 <img align="right" height="300" src="https://github.com/heroideallstar/heroideallstar/assets/38461389/80aa3f17-880e-433b-9df0-c35a1c3c8d44"/>
 
+
+
 - 🌠 Sou professor de física; 
 - 🌱 Vegano;
 - 🐈 Tenho 6 gatos.
@@ -18,7 +20,9 @@
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
 
 ### Minhas Estatísticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroideallstar&layout=compact)](https://github.com/heroideallstar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroideallstar&layout=compact&theme=onedark)](https://github.com/heroideallstar/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+
 
 
 
