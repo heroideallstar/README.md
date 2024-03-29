@@ -14,4 +14,6 @@
 
 ### Minhas Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroideallstar&layout=compact)](https://github.com/heroideallstar/github-readme-stats)
+![Snake animation](https://github.com/heroideallstar/heroideallstar/blob/output/github-contribution-grid-snake.svg)
+
 
