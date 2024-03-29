@@ -2,7 +2,8 @@
 - 🌠 Sou professor de física; 
 - 🌱 Vegano;
 - 🐈 Tenho 6 gatos.
-<a href = "" target = "_blank"></a>
+
+
 ### Ferramentas e tecnologias 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" />
 
@@ -14,6 +15,7 @@
 
 ### Minhas Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroideallstar&layout=compact)](https://github.com/heroideallstar/github-readme-stats)
+
 ![Snake animation](https://github.com/heroideallstar/heroideallstar/blob/output/github-contribution-grid-snake.svg)
 
 
